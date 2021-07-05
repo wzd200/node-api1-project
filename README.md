@@ -15,10 +15,10 @@ There are two possible ways to submit your project. Your instructor should have 
 #### Option A - Codegrade
 
 - [X] Fork and clone the repository.
-- [ ] Open the assignment in Canvas and click on the "Set up git" option.
-- [ ] Follow instructions to set up Codegrade's Webhook and Deploy Key.
-- [ ] Push your first commit: `git commit --allow-empty -m "first commit" && git push`.
-- [ ] Check to see that Codegrade has accepted your git submssion.
+- [X] Open the assignment in Canvas and click on the "Set up git" option.
+- [X] Follow instructions to set up Codegrade's Webhook and Deploy Key.
+- [X] Push your first commit: `git commit --allow-empty -m "first commit" && git push`.
+- [X] Check to see that Codegrade has accepted your git submssion.
 
 #### Option B - Pull Request
 
